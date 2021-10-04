@@ -1,0 +1,29 @@
+/* CSS design by @jofpin */
+
+body {
+  background:whitesmoke;
+  padding: 2.23em;
+}
+
+.title-pen {
+  margin-top: 5px;
+  color: #fff;
+  text-align: center;
+  background:linear-gradient(blue,yellow)
+
+ } 
+.serach{
+  padding: 0;
+  margin: 0;
+  cursor: default;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+  background:linear-gradient(135deg,yellow,pink)
+}
+
+.title-pen{
+  font-weight: 600;
+  letter-spacing: 1px;
+  background: linear-gradient(135deg, #14ffe9,#ffeb3b,#ff00e0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
